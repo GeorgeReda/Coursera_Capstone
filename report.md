@@ -20,3 +20,22 @@ FourSquare API will provide me with a 100 coffe shops - per search-
 - Venue details: [https://developer.foursquare.com/](https://developer.foursquare.com/)
 
 After Downloading data , it will be cleaned and wrangled to only have the information, necessary for our problem .
+
+## Methodology
+
+The main target here is to help tourist coming to London specifically the center of it to find coffee shops there and don't waste time looking for coffee shops near them .
+I collected data for a radius of 1 km from the center of London and divided them to 4 groups
+
+## Results
+
+There are groups that have more coffee shops than others so the tourist may consider the place of his hotel if he loves going to coffee shops.
+Also if someone thinking about opening his own coffee shop, he should about building his shop in place which doesn't have many of them in order to grow his business
+
+## Discussion
+
+The thing that only bothers me is the limitation of calls of the FourSquare API , it would be more helpful in finding more coffee shops across London not only it's center if there were more calls available .
+
+## Conclusion
+
+There's no doubt that London's coffee shops are great - specifically at the tea time - with a lot of coffee shops to choose from
+Also, we would recommend that our tourist book a hotel close to the place with more coffee shops.
